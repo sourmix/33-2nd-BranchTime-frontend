@@ -110,6 +110,7 @@ trello
 ```
 
 ### User page
+![ezgif-2-1b836a84a8](https://user-images.githubusercontent.com/75124027/174717296-5a8dbee7-f295-4c49-8186-525c4b9c013c.gif)
 
 ```
 - boolean 값을 통해 현재 위치한 user 정보가 나인지 타인인지 구분하여 서로 다른 UI를 보여줌
